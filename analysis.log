@@ -1,16 +1,15 @@
-2025-06-30 15:43:48,914 - INFO - --- Starting Analysis (Single-File Mode) ---
-2025-06-30 15:43:48,922 - INFO - Prepared data for 339 videos.
-2025-06-30 16:00:49,142 - INFO - 
+2025-07-01 10:25:04,937 - INFO - --- Starting Segmented Video Analysis ---
+2025-07-01 10:25:04,944 - INFO - Prepared data for 339 videos.
+2025-07-01 10:43:13,575 - INFO - 
 ==================================================
 --- FINAL ANALYSIS REPORT ---
 ==================================================
-2025-06-30 16:00:49,142 - INFO - Total Videos Attempted: 339
-2025-06-30 16:00:49,142 - INFO - Successfully Processed: 183 (54.0%)
-2025-06-30 16:00:49,142 - INFO - Failed or Skipped: 156
-2025-06-30 16:00:49,142 - INFO -   - Failures at Extraction (corrupt/empty): 0
-2025-06-30 16:00:49,142 - INFO -   - Failures at Processing (low FPS): 0
-2025-06-30 16:00:49,142 - INFO -   - Failures due to No Beats Found: 156
-2025-06-30 16:00:49,142 - INFO -   - Failures due to Unexpected Errors: 0
-2025-06-30 16:00:49,147 - INFO - 
+2025-07-01 10:43:13,598 - INFO - Saved 153 aggregated records to output/RED_results.csv
+2025-07-01 10:43:13,611 - INFO - Saved 335 aggregated records to output/ORANGE_results.csv
+2025-07-01 10:43:13,623 - INFO - Saved 336 aggregated records to output/YELLOW_results.csv
+2025-07-01 10:43:13,623 - INFO - 
+--- Saving Per-Beat Detailed Data ---
+2025-07-01 10:43:13,824 - INFO - Saved 15167 individual beat records to output/per_beat_delta_values.csv
+2025-07-01 10:43:13,824 - INFO - 
 --- Analysis Finished ---
 ==================================================
