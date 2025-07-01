@@ -1,0 +1,16 @@
+2025-06-30 15:43:48,914 - INFO - --- Starting Analysis (Single-File Mode) ---
+2025-06-30 15:43:48,922 - INFO - Prepared data for 339 videos.
+2025-06-30 16:00:49,142 - INFO - 
+==================================================
+--- FINAL ANALYSIS REPORT ---
+==================================================
+2025-06-30 16:00:49,142 - INFO - Total Videos Attempted: 339
+2025-06-30 16:00:49,142 - INFO - Successfully Processed: 183 (54.0%)
+2025-06-30 16:00:49,142 - INFO - Failed or Skipped: 156
+2025-06-30 16:00:49,142 - INFO -   - Failures at Extraction (corrupt/empty): 0
+2025-06-30 16:00:49,142 - INFO -   - Failures at Processing (low FPS): 0
+2025-06-30 16:00:49,142 - INFO -   - Failures due to No Beats Found: 156
+2025-06-30 16:00:49,142 - INFO -   - Failures due to Unexpected Errors: 0
+2025-06-30 16:00:49,147 - INFO - 
+--- Analysis Finished ---
+==================================================
